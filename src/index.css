@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  --primary-color: #262626;
+  --secondary-color: #ebe4e4;
+  --tertiary-color: #ba9a9a;
+}

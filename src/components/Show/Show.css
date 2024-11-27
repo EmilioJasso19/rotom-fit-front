@@ -1,0 +1,11 @@
+.eye-container {
+    width: 20px;
+    height: 30px;
+    padding: 1rem;
+    border-radius: 0 8px 8px 0;
+}
+
+.eye-container:hover {
+    cursor: pointer;
+    background-color: #706d6d55;
+}

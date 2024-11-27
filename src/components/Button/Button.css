@@ -1,0 +1,28 @@
+.btn {
+    border-radius: 8px;
+    width: 250px;
+    height: 50px;
+    border: none;
+    text-transform: uppercase;
+}
+
+.btn:hover {
+    cursor: pointer;
+    opacity: .8;
+    transition: .3s;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+.btn-secondary {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+}
+
+.btn-tertiary {
+    background-color: var(--tertiary-color);
+    color: var(--primary-color);
+}
